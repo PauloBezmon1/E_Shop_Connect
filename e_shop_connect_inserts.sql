@@ -283,7 +283,7 @@ INSERT INTO Product VALUES(1,8,'Asus','ASUS Chromebook 11.6 laptop','laptop','C2
 INSERT INTO Product VALUES(2,10,'Bose','Bose QuietComfort 35 wireless headphone','headphone','759944-0010','black',100,449);
 INSERT INTO Product VALUES(3,39,'Canon','Canon EOS Rebel T5','cameras','9126B003','black',50,500);
 INSERT INTO Product VALUES(4,77,'DELL','DELL Ultra HD 4k Monitor P2715Q 27-Inch Screen LED-Lit Monitor','computer accessories','P2715Q','black',40,713);
-INSERT INTO Product VALUES(5,218,'GoPro','GoPro HERO5','cameras','CHDHX-501-CA','black',80,599);
+INTO Product VALUES(5,218,'GoPro','GoPro HERO5','cameras','CHDHX-501-CA','black',80,599);
 INSERT INTO Product VALUES(6,218,'Microsoft','Microsoft Xbox 360 Wired Controller for Windows','controllers','52A-00004','black',60,35);
 INSERT INTO Product VALUES(7,8,'Microsoft','Microsoft Sculpt Ergonomic Wireless Bluetrack Desktop Keyboard','computer accessories','L5V-00003','black',70,126);
 INSERT INTO Product VALUES(8,8,'Microsoft','Microsoft Surface Pro 4 i5 (128GB) with Wireless Media Adapter','laptop','CR5-00001','black',30,1350);

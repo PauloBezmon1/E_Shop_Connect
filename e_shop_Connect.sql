@@ -170,7 +170,7 @@ create table ServicePoint(
     streetaddr             varchar(100) not null,
     city                   varchar(50),
     province               varchar(50),
-    startime               varchar(20),
+    startTime               varchar(20),
     endtime                varchar(20),
     
     primary key(pk_spid)
