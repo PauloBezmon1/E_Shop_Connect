@@ -63,6 +63,7 @@ WHERE s.pk_sid = "8"
 group by ID;
 
 -- h.Consultar os comentários do produto 123456789.
+select * from product;
 select
 	p.modelNumber as Numero_Modelo,
 	p.name as Produto,
@@ -70,4 +71,4 @@ select
     c.content as Comentário
 from product p
 join comments c on c.fk_pid = p.pk_pid
-where p.modelNumber = "C201PA-DS02";
+where p.pk_pid = "123456789";
